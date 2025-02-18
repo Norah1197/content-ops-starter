@@ -171,12 +171,18 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: "\U0001F7EA Emotional Resilience & Mental Well-being"
-        subtitle: "\U0001F9D8‍♀️ Manage stress, anxiety, and difficult emotions with confidence."
-        text: >
-          Life throws challenges your way, but you don’t have to drown in them.
-          Therapy equips you with tools to regulate your emotions, process
-          anxiety, and move through life with strength and clarity.
+        title: "\U0001F7EA Self-Compassion & Self-Care"
+        subtitle: "\U0001F9E1 Learn to be kinder to yourself and prioritize your well-being."
+        text: >+
+          *Many women struggle with perfectionism, self-criticism, or neglecting
+          their own needs. I guide women in cultivating self-compassion and
+          creating sustainable self-care practices that nurture their mental,
+          emotional, and physical health.*
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
@@ -199,18 +205,12 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: "\U0001F7EA Self-Compassion & Self-Care"
-        subtitle: "\U0001F9E1 Learn to be kinder to yourself and prioritize your well-being."
-        text: >+
-          *Many women struggle with perfectionism, self-criticism, or neglecting
-          their own needs. I guide women in cultivating self-compassion and
-          creating sustainable self-care practices that nurture their mental,
-          emotional, and physical health.*
-
-
-
-
-
+        title: "\U0001F7EA Emotional Resilience & Mental Well-being"
+        subtitle: "\U0001F9D8‍♀️ Manage stress, anxiety, and difficult emotions with confidence."
+        text: >
+          Life throws challenges your way, but you don’t have to drown in them.
+          Therapy equips you with tools to regulate your emotions, process
+          anxiety, and move through life with strength and clarity.
         image:
           type: ImageBlock
           url: /images/icon1.svg
