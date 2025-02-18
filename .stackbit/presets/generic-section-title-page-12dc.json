@@ -1,0 +1,83 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "title page",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "intro"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Your Mental Wellness Matters",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "A safe space for women to heal, grow, and thrive.",
+                "text": "**Hi, I’m Norah Mwikali,**\n\n\nLife can feel overwhelming, but you don’t have to navigate it alone. I help women like you find balance in the chaos; whether you're juggling career pressures, relationships, motherhood, or personal struggles.\n\n🌸 Feeling anxious, stuck, or emotionally drained?\n🌸 Struggling with self-doubt, burnout, or past trauma?\n🌸 Ready to build confidence, set boundaries, and prioritize yourself?\n\nYou deserve a life where you feel heard, valued, and empowered. Let’s work together to help you step into your full potential.\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "🔹 Start Your Healing Journey ",
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": ""
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "🔹 Book a Session",
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": ""
+                    }
+                ],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/empathy-logo.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Unblock your team boost your time to production preview",
+                    "elementId": "",
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "This is a badge",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": "",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row",
+                        "padding": [
+                            "pt-16",
+                            "pl-16",
+                            "pb-16",
+                            "pr-16"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-title-page-12dc.png"
+        }
+    ]
+}
