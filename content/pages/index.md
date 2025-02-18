@@ -141,10 +141,10 @@ sections:
       - type: FeaturedItem
         title: "\U0001F7EA Emotional Resilience & Mental Well-being"
         subtitle: "\U0001F9D8‍♀️ Manage stress, anxiety, and difficult emotions with confidence."
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Life throws challenges your way, but you don’t have to drown in them.
+          Therapy equips you with tools to regulate your emotions, process
+          anxiety, and move through life with strength and clarity.
         image:
           type: ImageBlock
           url: /images/icon1.svg
