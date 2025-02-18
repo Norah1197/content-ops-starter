@@ -273,7 +273,7 @@ sections:
     subtitle: Your Daily Guide to Healing and Thriving
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: ''
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
