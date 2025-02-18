@@ -203,10 +203,14 @@ sections:
       - type: FeaturedItem
         title: "\U0001F7EA Personal Growth & Empowerment"
         subtitle: "\U0001F331 Empower yourself to live authentically and embrace change."
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *We all grow and evolve, but it’s easy to feel stuck or unsure about
+          making changes. I support women in embracing their potential and
+          developing a mindset that helps them take control of their futures,
+          whether it's in relationships, career, or personal dreams.*
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
