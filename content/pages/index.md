@@ -139,13 +139,15 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: "\U0001F7EA Personal Growth & Empowerment"
-        subtitle: "\U0001F331 Empower yourself to live authentically and embrace change."
+        title: "\U0001F7EA Self-Compassion & Self-Care"
+        subtitle: "\U0001F9E1 Learn to be kinder to yourself and prioritize your well-being."
         text: >+
-          *We all grow and evolve, but it’s easy to feel stuck or unsure about
-          making changes. I support women in embracing their potential and
-          developing a mindset that helps them take control of their futures,
-          whether it's in relationships, career, or personal dreams.*
+          *Many women struggle with perfectionism, self-criticism, or neglecting
+          their own needs. I guide women in cultivating self-compassion and
+          creating sustainable self-care practices that nurture their mental,
+          emotional, and physical health.*
+
+
 
 
 
@@ -171,15 +173,13 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: "\U0001F7EA Self-Compassion & Self-Care"
-        subtitle: "\U0001F9E1 Learn to be kinder to yourself and prioritize your well-being."
+        title: "\U0001F7EA Personal Growth & Empowerment"
+        subtitle: "\U0001F331 Empower yourself to live authentically and embrace change."
         text: >+
-          *Many women struggle with perfectionism, self-criticism, or neglecting
-          their own needs. I guide women in cultivating self-compassion and
-          creating sustainable self-care practices that nurture their mental,
-          emotional, and physical health.*
-
-
+          *We all grow and evolve, but it’s easy to feel stuck or unsure about
+          making changes. I support women in embracing their potential and
+          developing a mindset that helps them take control of their futures,
+          whether it's in relationships, career, or personal dreams.*
 
 
 
