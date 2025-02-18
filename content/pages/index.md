@@ -270,7 +270,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: 'Your Dailyh Guide to Haling, Growing, and Thriving'
     items:
       - type: FeaturedItem
         title: Feature Item One
