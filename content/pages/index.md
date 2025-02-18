@@ -271,11 +271,18 @@ sections:
         self:
           textAlign: center
     subtitle: 'Your Daily Guide to Healing and Thriving '
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Life doesn't have to feel like an endless juggling act. Finding the
+      Balance is a supportive space for women to reconnect with their inner
+      selves, reclaim their mental health, and embrace a life of purpose and
+      peace. Through therapy, community support, and practical tools, I’m here
+      to guide you every step of the way in creating a life that feels centered,
+      balanced, and true to who you are.
+
+
+
+
+
     actions: []
     badge:
       type: Badge
