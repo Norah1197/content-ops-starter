@@ -87,7 +87,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: "\U0001F33F Understand yourself, heal from past wounds, and embrace growth."
+        tagline: ''
       - title: 20x
         subtitle: The Job Stuff
         text: >-
