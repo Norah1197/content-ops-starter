@@ -279,15 +279,6 @@ sections:
       to guide you every step of the way in creating a life that feels centered,
       balanced, and true to who you are.
     actions:
-      - type: Button
-        label: It’s time to stop merely surviving and start thriving.
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: ' Join the Conversation on Instagram'
         altText: Instagram
