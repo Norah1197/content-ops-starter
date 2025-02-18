@@ -19,7 +19,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Book a Session
+      - label: "\U0001F539 Book a Session"
         altText: ''
         url: /
         showIcon: true
