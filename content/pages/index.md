@@ -60,7 +60,7 @@ sections:
     items:
       - type: FeaturedItem
         title: "\U0001F7EA Healing & Self-Discovery"
-        subtitle: Numbers Done
+        subtitle: "\U0001F33F Understand yourself, heal from past wounds, and embrace growth."
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
