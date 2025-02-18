@@ -61,10 +61,10 @@ sections:
       - type: FeaturedItem
         title: "\U0001F7EA Healing & Self-Discovery"
         subtitle: "\U0001F33F Understand yourself, heal from past wounds, and embrace growth."
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Many women carry unhealed emotional wounds from childhood,
+          relationships, or societal pressures. I provide a safe space to unpack
+          and process these experiences, helping you reconnect with yourself.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
