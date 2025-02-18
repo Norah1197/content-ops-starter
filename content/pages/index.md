@@ -90,10 +90,10 @@ sections:
         tagline: ''
       - title: "\U0001F7EA Confidence & Boundaries"
         subtitle: "\U0001F4A1 Build self-esteem, set boundaries, and stop people-pleasing."
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Do you struggle to say ‘no’ or feel guilty when you prioritize
+          yourself? Let’s work together to help you develop self-confidence and
+          create healthy boundaries that honor your needs.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
