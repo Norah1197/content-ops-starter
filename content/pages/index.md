@@ -168,7 +168,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: "\U0001F7EA Self-Compassion & Self-Care"
-        subtitle: Numbers Done
+        subtitle: "\U0001F9E1 Learn to be kinder to yourself and prioritize your well-being."
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
