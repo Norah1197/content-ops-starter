@@ -89,7 +89,7 @@ sections:
               borderRadius: x-large
         tagline: ''
       - title: "\U0001F7EA Confidence & Boundaries"
-        subtitle: The Job Stuff
+        subtitle: "\U0001F4A1 Build self-esteem, set boundaries, and stop people-pleasing."
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
