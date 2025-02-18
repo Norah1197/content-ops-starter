@@ -140,7 +140,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: "\U0001F7EA Emotional Resilience & Mental Well-being"
-        subtitle: Numbers Done
+        subtitle: "\U0001F9D8‍♀️ Manage stress, anxiety, and difficult emotions with confidence."
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
