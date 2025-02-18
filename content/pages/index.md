@@ -279,15 +279,6 @@ sections:
       to guide you every step of the way in creating a life that feels centered,
       balanced, and true to who you are.
     actions:
-      - type: Link
-        label: ' Join the Conversation on Instagram'
-        altText: Instagram
-        url: /
-        showIcon: true
-        icon: instagram
-        iconPosition: left
-        style: secondary
-        elementId: ''
       - type: Button
         label: It’s time to stop merely surviving and start thriving.
         altText: ''
@@ -295,6 +286,15 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: ' Join the Conversation on Instagram'
+        altText: Instagram
+        url: /
+        showIcon: true
+        icon: instagram
+        iconPosition: left
         style: secondary
         elementId: ''
     badge:
