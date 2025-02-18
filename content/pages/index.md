@@ -7,7 +7,7 @@ sections:
       text: Your Mental Wellness Matters
       color: text-dark
       type: TitleBlock
-    subtitle: 'Empowering women with tools for growth, healing, and balance.'
+    subtitle: 'A safe space for women to heal, grow, and thrive.'
     text: >
       **Hi, I’m Norah Mwikali,**
 
