@@ -88,7 +88,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: ''
-      - title: 20x
+      - title: "\U0001F7EA Confidence & Boundaries"
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
