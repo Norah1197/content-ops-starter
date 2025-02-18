@@ -117,10 +117,10 @@ sections:
         subtitle: >-
           ⚖️ Navigate career, relationships, and personal well-being without
           feeling overwhelmed.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Whether you're a professional juggling responsibilities, a mother
+          feeling exhausted, or a woman balancing multiple roles, I help you
+          find sustainable ways to manage stress and avoid burnout.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
