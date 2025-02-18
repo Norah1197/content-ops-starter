@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Your Mental Wellness, My Priority'
+      text: Your Mental Wellness Matters
       color: text-dark
       type: TitleBlock
     subtitle: 'Empowering you with tools for growth, healing, and balance.'
