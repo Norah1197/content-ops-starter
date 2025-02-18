@@ -288,15 +288,6 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     badge:
       type: Badge
       label: ''
