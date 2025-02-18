@@ -278,7 +278,16 @@ sections:
       peace. Through therapy, community support, and practical tools, I’m here
       to guide you every step of the way in creating a life that feels centered,
       balanced, and true to who you are.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       type: Badge
       label: ''
