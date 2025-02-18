@@ -8,15 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'A safe space for women to heal, grow, and thrive.'
-    text: >
-      **Hi, I’m Norah Mwikali,**
-
-
-
-      Life can feel overwhelming, but you don’t have to navigate it alone. As a
-      clinical psychologist, I provide a supportive space for young adults and
-      professionals to explore their emotions, heal from past wounds, and build
-      resilience.
+    text: "**Hi, I’m Norah Mwikali,**\n\n\nLife can feel overwhelming, but you don’t have to navigate it alone. I help women like you find balance in the chaos; whether you're juggling career pressures, relationships, motherhood, or personal struggles.\n\n\U0001F338 Feeling anxious, stuck, or emotionally drained?\n\U0001F338 Struggling with self-doubt, burnout, or past trauma?\n\U0001F338 Ready to build confidence, set boundaries, and prioritize yourself?\n\nYou deserve a life where you feel heard, valued, and empowered. Let’s work together to help you step into your full potential.\n"
     actions:
       - label: Start Your Healing Journey
         altText: ''
