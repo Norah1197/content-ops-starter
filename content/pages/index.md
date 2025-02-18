@@ -56,7 +56,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Therapy designed for women’s unique challenges and strengths.
     items:
       - type: FeaturedItem
         title: 500k
