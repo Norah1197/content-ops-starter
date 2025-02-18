@@ -113,31 +113,6 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: "\U0001F7EA Work-Life Balance & Burnout"
-        subtitle: >-
-          ⚖️ Navigate career, relationships, and personal well-being without
-          feeling overwhelmed.
-        text: >
-          Whether you're a professional juggling responsibilities, a mother
-          feeling exhausted, or a woman balancing multiple roles, I help you
-          find sustainable ways to manage stress and avoid burnout.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
       - type: FeaturedItem
         title: "\U0001F7EA Self-Compassion & Self-Care"
         subtitle: "\U0001F9E1 Learn to be kinder to yourself and prioritize your well-being."
@@ -172,6 +147,31 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+      - title: "\U0001F7EA Work-Life Balance & Burnout"
+        subtitle: >-
+          ⚖️ Navigate career, relationships, and personal well-being without
+          feeling overwhelmed.
+        text: >
+          Whether you're a professional juggling responsibilities, a mother
+          feeling exhausted, or a woman balancing multiple roles, I help you
+          find sustainable ways to manage stress and avoid burnout.
+        image:
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
       - type: FeaturedItem
         title: "\U0001F7EA Personal Growth & Empowerment"
         subtitle: "\U0001F331 Empower yourself to live authentically and embrace change."
