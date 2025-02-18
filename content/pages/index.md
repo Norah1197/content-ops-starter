@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Empowering you with tools for growth, healing, and balance.'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      **Hi, I’m Norah Mwikali,**
+
+      Life can feel overwhelming, but you don’t have to navigate it alone. As a
+      clinical psychologist, I provide a supportive space for young adults and
+      professionals to explore their emotions, heal from past wounds, and build
+      resilience.
+
     actions:
       - label: Start Your Healing Journey
         altText: ''
