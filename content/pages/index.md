@@ -289,7 +289,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: It’s time to stop merely surviving and start thriving.
         altText: ''
         url: /
         showIcon: false
