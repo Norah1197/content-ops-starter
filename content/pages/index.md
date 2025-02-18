@@ -114,7 +114,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: "\U0001F7EA Work-Life Balance & Burnout"
-        subtitle: Faster
+        subtitle: >-
+          ⚖️ Navigate career, relationships, and personal well-being without
+          feeling overwhelmed.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
