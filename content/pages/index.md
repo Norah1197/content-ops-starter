@@ -169,10 +169,16 @@ sections:
       - type: FeaturedItem
         title: "\U0001F7EA Self-Compassion & Self-Care"
         subtitle: "\U0001F9E1 Learn to be kinder to yourself and prioritize your well-being."
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *Many women struggle with perfectionism, self-criticism, or neglecting
+          their own needs. I guide women in cultivating self-compassion and
+          creating sustainable self-care practices that nurture their mental,
+          emotional, and physical health.*
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
