@@ -292,7 +292,7 @@ sections:
         label: It’s time to stop merely surviving and start thriving.
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
