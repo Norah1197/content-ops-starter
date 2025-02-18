@@ -286,7 +286,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Key Benefits
+      label: It’s time to stop merely surviving and start thriving.
       color: text-primary
       styles:
         self:
