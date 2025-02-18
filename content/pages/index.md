@@ -202,7 +202,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: "\U0001F7EA Personal Growth & Empowerment"
-        subtitle: Numbers Done
+        subtitle: "\U0001F331 Empower yourself to live authentically and embrace change."
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
