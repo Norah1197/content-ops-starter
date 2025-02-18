@@ -288,6 +288,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: Instagram
+        altText: Instagram
+        url: /
+        showIcon: true
+        icon: instagram
+        iconPosition: left
+        style: secondary
+        elementId: ''
     badge:
       type: Badge
       label: ''
