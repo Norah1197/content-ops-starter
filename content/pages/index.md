@@ -289,7 +289,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Instagram
+        label: ' Join the Conversation on Instagram'
         altText: Instagram
         url: /
         showIcon: true
