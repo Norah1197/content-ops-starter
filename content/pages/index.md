@@ -281,7 +281,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: It’s time to stop merely surviving and start thriving.
+      label: ''
       color: text-primary
       styles:
         self:
