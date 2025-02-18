@@ -139,12 +139,16 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: "\U0001F7EA Emotional Resilience & Mental Well-being"
-        subtitle: "\U0001F9D8‍♀️ Manage stress, anxiety, and difficult emotions with confidence."
-        text: >
-          Life throws challenges your way, but you don’t have to drown in them.
-          Therapy equips you with tools to regulate your emotions, process
-          anxiety, and move through life with strength and clarity.
+        title: "\U0001F7EA Personal Growth & Empowerment"
+        subtitle: "\U0001F331 Empower yourself to live authentically and embrace change."
+        text: >+
+          *We all grow and evolve, but it’s easy to feel stuck or unsure about
+          making changes. I support women in embracing their potential and
+          developing a mindset that helps them take control of their futures,
+          whether it's in relationships, career, or personal dreams.*
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
@@ -167,16 +171,12 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: "\U0001F7EA Personal Growth & Empowerment"
-        subtitle: "\U0001F331 Empower yourself to live authentically and embrace change."
-        text: >+
-          *We all grow and evolve, but it’s easy to feel stuck or unsure about
-          making changes. I support women in embracing their potential and
-          developing a mindset that helps them take control of their futures,
-          whether it's in relationships, career, or personal dreams.*
-
-
-
+        title: "\U0001F7EA Emotional Resilience & Mental Well-being"
+        subtitle: "\U0001F9D8‍♀️ Manage stress, anxiety, and difficult emotions with confidence."
+        text: >
+          Life throws challenges your way, but you don’t have to drown in them.
+          Therapy equips you with tools to regulate your emotions, process
+          anxiety, and move through life with strength and clarity.
         image:
           type: ImageBlock
           url: /images/icon1.svg
