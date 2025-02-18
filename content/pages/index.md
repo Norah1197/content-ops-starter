@@ -59,7 +59,7 @@ sections:
     subtitle: Therapy designed for women’s unique challenges and strengths.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: "\U0001F7EA Healing & Self-Discovery"
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
