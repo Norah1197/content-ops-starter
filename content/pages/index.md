@@ -280,7 +280,7 @@ sections:
       balanced, and true to who you are.
     actions:
       - type: Button
-        label: Get started
+        label: It’s time to stop merely surviving and start thriving.
         altText: ''
         url: /
         showIcon: false
