@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Your Mental Wellness Matters
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: 'A safe space for women to heal, grow, and thrive.'
