@@ -18,7 +18,7 @@
         "size": "3xl",
         "weight": "medium",
         "decoration": "none",
-        "case": "none",
+        "case": "capitalize",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
     },
