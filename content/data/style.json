@@ -19,7 +19,7 @@
         "weight": "medium",
         "decoration": "none",
         "case": "capitalize",
-        "letterSpacing": "wide",
+        "letterSpacing": "wider",
         "type": "ThemeStyleHeading"
     },
     "h3": {
