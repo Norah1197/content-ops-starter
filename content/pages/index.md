@@ -12,7 +12,7 @@ sections:
           textAlign: center
           fontWeight: 400
     subtitle: 'A safe space for women to heal, grow, and thrive.'
-    text: "**Hi, I’m Norah Mwikali,**\n\nLife can feel overwhelming, but you don’t have to navigate it alone. I help women like you find balance in the chaos; whether you're juggling career pressures, relationships, motherhood, or personal struggles.\n\n\U0001F338 Feeling anxious, stuck, or emotionally drained?\n\n\U0001F338 Struggling with self-doubt, burnout, or past trauma?\n\n\U0001F338 Ready to build confidence, set boundaries, and prioritize yourself?\n\nYou deserve a life where you feel heard, valued, and empowered. \n\nLet’s work together to help you step into your full potential.\n"
+    text: "**Hi, I’m Norah Mwikali,**\n\nLife can feel overwhelming, but you don’t have to navigate it alone. \n\nI help women like you find balance in the chaos; whether you're juggling career pressures, relationships, motherhood, or personal struggles.\n\n<div style=\"text-align: center\">\U0001F338 Feeling anxious, stuck, or emotionally drained?\U0001F338 Struggling with self-doubt, burnout, or past trauma?\U0001F338 Ready to build confidence, set boundaries, and prioritize yourself?</div>\n\nYou deserve a life where you feel heard, valued, and empowered.\n\nLet’s work together to help you step into your full potential.\n"
     actions:
       - label: "\U0001F539 Start Your Healing Journey "
         altText: ''
