@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Your Mental Wellness Matters
-      color: text-neutral
+      color: text-dark
       type: TitleBlock
       styles:
         self:
