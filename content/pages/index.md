@@ -173,34 +173,6 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: "\U0001F7EA Emotional Resilience & Mental Well-being"
-        subtitle: "\U0001F9D8‍♀️ Manage stress, anxiety, and difficult emotions with confidence."
-        text: >
-          Life throws challenges your way, but you don’t have to drown in them.
-          Therapy equips you with tools to regulate your emotions, process
-          anxiety, and move through life with strength and clarity.
-        image:
-          type: ImageBlock
-          url: /images/icon1.svg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
         title: "\U0001F7EA Personal Growth & Empowerment"
         subtitle: "\U0001F331 Empower yourself to live authentically and embrace change."
         text: >+
