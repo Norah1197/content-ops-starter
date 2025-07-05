@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: "\U0001F4BC Balancing Life Without Losing Yourself"
-        tagline: Feature 2
+        tagline: 'Making space for your needs, too'
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
