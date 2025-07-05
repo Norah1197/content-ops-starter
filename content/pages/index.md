@@ -251,16 +251,7 @@ sections:
       peace. Through therapy, community support, and practical tools, I’m here
       to guide you every step of the way in creating a life that feels centered,
       balanced, and true to who you are.
-    actions:
-      - type: Link
-        label: ' Join the Conversation on Instagram'
-        altText: Instagram
-        url: /
-        showIcon: true
-        icon: instagram
-        iconPosition: left
-        style: secondary
-        elementId: ''
+    actions: []
     badge:
       type: Badge
       label: ''
