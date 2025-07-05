@@ -213,7 +213,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 30
-      url: /images/BWIN-HP-image3.jpg
+      url: /images/KJF_Black-Women-Explore_01.webp
   - type: GenericSection
     title:
       type: TitleBlock
