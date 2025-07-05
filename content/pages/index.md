@@ -183,7 +183,7 @@ sections:
               - pl-5
               - pr-5
             textAlign: left
-            borderRadius: large
+            borderRadius: medium
             flexDirection: row
             justifyContent: flex-start
     actions:
