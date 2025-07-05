@@ -213,7 +213,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 56
-      url: /images/images (1).jpeg
+      url: /images/KJF_Black-Women-Explore_01.webp
   - type: GenericSection
     title:
       type: TitleBlock
