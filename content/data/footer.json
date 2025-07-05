@@ -2,12 +2,6 @@
     "text": "🌸 *For the woman who's always holding it together. This time, let someone hold space for you.*\n\n",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
