@@ -95,7 +95,7 @@ sections:
       - type: FeaturedItem
         title: "\U0001F510 Learning to Set Boundaries"
         tagline: Permission to protect your peace
-        subtitle: You don’t have to be so hard on yourself
+        subtitle: You can be kind and still say no
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
