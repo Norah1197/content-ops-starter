@@ -44,7 +44,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/avatar3.svg
+      url: /images/360_F_52361078_SHdecpZQKoce2V5TAdJYE7QLj9ZUykAH.jpg
   - type: FeaturedItemsSection
     title:
       text: Why Work With Me?
