@@ -209,7 +209,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
-      backgroundSize: cover
+      backgroundSize: auto
       backgroundPosition: right-top
       backgroundRepeat: no-repeat
       opacity: 100
