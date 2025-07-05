@@ -44,7 +44,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/images.jpeg
+      url: >-
+        /images/how-to-find-a-therapist-who-understands-my-black-identity-1440x810.webp
   - type: FeaturedItemsSection
     title:
       text: Why Work With Me?
