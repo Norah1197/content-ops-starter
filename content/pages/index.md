@@ -180,7 +180,7 @@ sections:
             padding:
               - pt-5
               - pb-5
-              - pl-9
+              - pl-5
               - pr-5
             textAlign: left
             borderRadius: large
