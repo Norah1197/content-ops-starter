@@ -43,7 +43,7 @@ sections:
       backgroundSize: contain
       backgroundPosition: left-bottom
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 39
       url: >-
         /images/how-to-find-a-therapist-who-understands-my-black-identity-1440x810.webp
   - type: FeaturedItemsSection
