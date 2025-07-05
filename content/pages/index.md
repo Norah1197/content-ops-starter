@@ -186,7 +186,7 @@ sections:
             borderRadius: small
             flexDirection: row
             justifyContent: flex-start
-            borderWidth: 4
+            borderWidth: 0
     actions:
       - label: Get started
         altText: ''
