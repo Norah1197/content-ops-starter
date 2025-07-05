@@ -64,10 +64,13 @@ sections:
         title: "\U0001F4BC Balancing Life Without Losing Yourself"
         tagline: 'Making space for your needs, too'
         subtitle: You’re allowed to slow down
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          It can feel like you're always showing up for everyone else — work,
+          family, responsibilities — while slowly disconnecting from yourself.
+          In therapy, we explore how to create space for rest, clarity, and your
+          well-being. It's not selfish to pause. It's necessary.
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
