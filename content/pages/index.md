@@ -61,7 +61,7 @@ sections:
     subtitle: Therapy designed for women’s unique challenges and strengths.
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: "\U0001F496 Rediscovering Who You Are"
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
