@@ -160,10 +160,10 @@ sections:
         tagline: 'Making space for your needs, too'
         subtitle: You’re allowed to slow down
         text: >+
-          <div style="text-align: left">It can feel like you're always showing
-          up for everyone else while slowly disconnecting from yourself. In
-          therapy, we explore how to create space for rest, clarity, and your
-          well-being. It's not selfish to pause. It's necessary.
+          <div style="text-align: left">It's exhausting showing up for everyone
+          else while slowly disconnecting from yourself. Therapy creates space
+          to rest, reset, and start choosing you. It's not selfish to pause.
+          It's necessary.</div>
 
 
           </div>
