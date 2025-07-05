@@ -185,7 +185,7 @@ sections:
             textAlign: left
             borderRadius: large
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-start
     actions:
       - label: Get started
         altText: ''
