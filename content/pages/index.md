@@ -44,7 +44,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/360_F_52361078_SHdecpZQKoce2V5TAdJYE7QLj9ZUykAH.jpg
+      url: /images/contenful-logo.svg
   - type: FeaturedItemsSection
     title:
       text: Why Work With Me?
