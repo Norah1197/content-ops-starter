@@ -13,26 +13,6 @@ sections:
     subtitle: 'A safe space for women to heal, grow, and thrive.'
     text: "<div style=\"text-align: left\">## Hi, I’m Norah Mwikali</div>\n\nLife can feel like too much sometimes; the pressure to keep up, hold it together, and care for everyone else can leave you feeling disconnected from yourself.\n\nI support women who are navigating the quiet chaos beneath it all; whether it’s the weight of expectations, burnout from work and motherhood, complicated relationships, or wounds that never had space to heal.\n\n\U0001F338 Feeling anxious, stuck, or emotionally drained?\n\n\U0001F338 Struggling with self-doubt, people-pleasing, or past pain that still lingers?\n\n\U0001F338 Ready to set boundaries, feel more grounded, and reconnect with who you truly are?\n\nYou don’t have to carry it all on your own.\n\nTherapy can be the space where you finally exhale and begin again, with support.\n"
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
       label: ''
