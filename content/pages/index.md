@@ -125,7 +125,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: "\U0001F331 Healing Emotional Wounds"
-        tagline: Feature 2
+        tagline: Unpacking what still hurts
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
