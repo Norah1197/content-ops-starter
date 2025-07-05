@@ -59,16 +59,6 @@ sections:
     subtitle: 'A safe space for women to heal, grow, and thrive.'
     text: "<div style=\"text-align: center\">## Hi, I’m Norah Mwikali</div>\n\nLife can feel like too much sometimes; the pressure to keep up, hold it together, and care for everyone else can leave you feeling disconnected from yourself.\n\nI support women who are navigating the quiet chaos beneath it all; whether it’s the weight of expectations, burnout from work and motherhood, complicated relationships, or wounds that never had space to heal.\n\n\U0001F338 Feeling anxious, stuck, or emotionally drained?\n\n\U0001F338 Struggling with self-doubt, people-pleasing, or past pain that still lingers?\n\n\U0001F338 Ready to set boundaries, feel more grounded, and reconnect with who you truly are?\n\nYou don’t have to carry it all on your own.\n\nTherapy can be the space where you finally exhale and begin again, with support.\n"
     actions:
-      - label: "\U0001F539 Start Your Healing Journey "
-        altText: ''
-        url: >-
-          https://book.carepatron.com/THERAPYOUTIK/Norah?p=CAs61hhOSeyV-dCt2yqx8g&s=7j2TGEH
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: "\U0001F539 Book a Session"
         altText: ''
         url: >-
@@ -79,6 +69,16 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - label: "\U0001F539 Start Your Healing Journey "
+        altText: ''
+        url: >-
+          https://book.carepatron.com/THERAPYOUTIK/Norah?p=CAs61hhOSeyV-dCt2yqx8g&s=7j2TGEH
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       url: /images/empathy-logo.svg
       altText: Unblock your team boost your time to production preview
