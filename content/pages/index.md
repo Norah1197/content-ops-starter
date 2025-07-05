@@ -97,10 +97,8 @@ sections:
         tagline: Permission to protect your peace
         subtitle: You can be kind and still say no
         text: >+
-          If you’ve spent years pleasing others or avoiding conflict, boundaries
-          might feel foreign or uncomfortable. In this space, we explore how to
-          honour your needs, speak your truth, and build relationships that
-          don’t require self-abandonment.
+          If boundaries feel uncomfortable or unfamiliar, you’re not alone. This
+          is a space to learn how to honor your needs without guilt.
 
 
 
