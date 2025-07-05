@@ -16,7 +16,8 @@ sections:
     actions:
       - label: "\U0001F539 Start Your Healing Journey "
         altText: ''
-        url: /
+        url: >-
+          https://book.carepatron.com/THERAPYOUTIK/Norah?p=CAs61hhOSeyV-dCt2yqx8g&s=7j2TGEH
         showIcon: false
         icon: arrowRight
         iconPosition: right
