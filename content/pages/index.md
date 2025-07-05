@@ -25,7 +25,8 @@ sections:
         type: Button
       - label: "\U0001F539 Book a Session"
         altText: ''
-        url: /
+        url: >-
+          https://book.carepatron.com/THERAPYOUTIK/Norah?p=CAs61hhOSeyV-dCt2yqx8g&s=7j2TGEHI
         showIcon: true
         icon: arrowRight
         iconPosition: right
