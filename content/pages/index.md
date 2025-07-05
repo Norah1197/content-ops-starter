@@ -124,7 +124,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: "\U0001F331 Healing Emotional Wounds"
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
