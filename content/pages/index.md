@@ -64,10 +64,13 @@ sections:
         title: "\U0001F496 Rediscovering Who You Are"
         tagline: When life has pulled you away from yourself
         subtitle: Come home to yourself
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          After years of surviving or putting others first, it’s easy to feel
+          lost. Therapy helps you reconnect with your voice, values, and sense
+          of self; not to reinvent yourself, but to remember who you've always
+          been.
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
