@@ -251,7 +251,7 @@ sections:
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: auto
-      backgroundPosition: left
+      backgroundPosition: right-bottom
       backgroundRepeat: no-repeat
       opacity: 68
       url: /images/istockphoto-1497833949-612x612.jpg
