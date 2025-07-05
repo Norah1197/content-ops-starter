@@ -229,7 +229,7 @@ sections:
           textAlign: center
     subtitle: 'Your Daily Guide to Healing and Thriving '
     text: >
-      Life doesn't have to feel like an endless juggling act. *Finding the
+      Life doesn't have to feel like an endless juggling act. *Finding Your
       Balance* is a supportive space for women to reconnect with their inner
       selves, reclaim their mental health, and embrace a life of purpose and
       peace. Through therapy, community support, and practical tools, I’m here
