@@ -96,10 +96,14 @@ sections:
         title: "\U0001F510 Learning to Set Boundaries"
         tagline: Permission to protect your peace
         subtitle: You can be kind and still say no
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          If you’ve spent years pleasing others or avoiding conflict, boundaries
+          might feel foreign or uncomfortable. In this space, we explore how to
+          honour your needs, speak your truth, and build relationships that
+          don’t require self-abandonment.
+
+
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
