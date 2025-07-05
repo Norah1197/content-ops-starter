@@ -253,7 +253,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: left
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 96
       url: /images/istockphoto-1497833949-612x612.jpg
   - title: Divider
     colors: bg-light-fg-dark
