@@ -61,7 +61,7 @@ sections:
     subtitle: Therapy designed for women’s unique challenges and strengths.
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: "\U0001F4BC Balancing Life Without Losing Yourself"
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
