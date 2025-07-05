@@ -23,7 +23,7 @@
         {
             "label": "Services",
             "altText": "Why Work With Me?",
-            "url": "/",
+            "url": "https://findingthebalance.netlify.app/Home/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
