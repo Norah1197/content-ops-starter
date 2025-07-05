@@ -252,7 +252,7 @@ sections:
       altText: altText of the image
       backgroundSize: auto
       backgroundPosition: right-bottom
-      backgroundRepeat: repeat-x
+      backgroundRepeat: repeat
       opacity: 55
       url: /images/istockphoto-1497833949-612x612.jpg
   - title: Divider
