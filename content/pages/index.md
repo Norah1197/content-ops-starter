@@ -94,7 +94,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: "\U0001F510 Learning to Set Boundaries"
-        tagline: Softening the inner critic
+        tagline: Permission to protect your peace
         subtitle: You don’t have to be so hard on yourself
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
