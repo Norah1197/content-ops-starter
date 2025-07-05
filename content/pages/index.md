@@ -254,6 +254,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/istockphoto-1497833949-612x612.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
