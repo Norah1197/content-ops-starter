@@ -120,7 +120,7 @@ sections:
               - pl-5
               - pr-9
             textAlign: left
-            borderRadius: large
+            borderRadius: small
             flexDirection: row
             justifyContent: center
             margin:
