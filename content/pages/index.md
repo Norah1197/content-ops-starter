@@ -150,7 +150,7 @@ sections:
               - pt-5
               - pb-5
               - pl-9
-              - pr-9
+              - pr-5
             textAlign: left
             borderRadius: large
             flexDirection: row
