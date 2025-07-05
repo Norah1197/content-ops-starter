@@ -44,8 +44,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: >-
-        /images/black-african-american-woman-receives-cognitive-behavioral-therapy-anxiety_858264-407.avif
+      url: /images/images.jpeg
   - type: FeaturedItemsSection
     title:
       text: Why Work With Me?
