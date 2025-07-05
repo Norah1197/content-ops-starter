@@ -44,7 +44,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/contenful-logo.svg
+      url: >-
+        /images/counseling-session-with-black-female-therapist-and-black-female-patient.jpg
   - type: FeaturedItemsSection
     title:
       text: Why Work With Me?
