@@ -127,10 +127,13 @@ sections:
         title: "\U0001F331 Healing Emotional Wounds"
         tagline: Unpacking what still hurts
         subtitle: Your pain deserves attention
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Some wounds stay buried but still affect how we feel and relate.
+          Together, we hold space for those experiences and begin the healing
+          process with care.
+
+
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
