@@ -11,11 +11,7 @@ sections:
         self:
           textAlign: center
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Life can feel like too much sometimes; the pressure to keep up, hold it together, and care for everyone else can leave you feeling disconnected from yourself.\nI support women who are navigating the quiet chaos beneath it all; whether it’s the weight of expectations, burnout from work and motherhood, complicated relationships, or wounds that never had space to heal.\n\U0001F338 Feeling anxious, stuck, or emotionally drained?\n\U0001F338 Struggling with self-doubt, people-pleasing, or past pain that still lingers?\n\U0001F338 Ready to set boundaries, feel more grounded, and reconnect with who you truly are?\nYou don’t have to carry it all on your own.\nTherapy can be the space where you finally exhale and begin again, with support.\n"
     actions: []
     media:
       type: VideoBlock
