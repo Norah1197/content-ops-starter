@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: Your Mental Wellness Matters
       color: text-dark
       styles:
         self:
