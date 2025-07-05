@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "https://findingthebalance",
+            "url": "https://findingthebalance.netlify.app/Home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
