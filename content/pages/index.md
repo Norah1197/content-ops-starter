@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: "\U0001F496 Rediscovering Who You Are"
-        tagline: Feature 2
+        tagline: When life has pulled you away from yourself
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
