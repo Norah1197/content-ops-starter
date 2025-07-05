@@ -65,11 +65,10 @@ sections:
         tagline: 'Making space for your needs, too'
         subtitle: You’re allowed to slow down
         text: >+
-
-          It can feel like you're always showing up for everyone else — work,
-          family, responsibilities — while slowly disconnecting from yourself.
-          In therapy, we explore how to create space for rest, clarity, and your
-          well-being. It's not selfish to pause. It's necessary.
+          It can feel like you're always showing up for everyone else while
+          slowly disconnecting from yourself. In therapy, we explore how to
+          create space for rest, clarity, and your well-being. It's not selfish
+          to pause. It's necessary.
 
         image:
           type: ImageBlock
