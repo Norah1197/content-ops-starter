@@ -95,7 +95,7 @@ sections:
       - type: FeaturedItem
         title: "\U0001F510 Learning to Set Boundaries"
         tagline: Permission to protect your peace
-        subtitle: You can be kind and still say no
+        subtitle: Saying no is a form of self-care
         text: >+
           If boundaries feel uncomfortable or unfamiliar, you’re not alone. This
           is a space to learn how to honor your needs without guilt.
