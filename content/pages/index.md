@@ -60,31 +60,6 @@ sections:
       type: TitleBlock
     subtitle: Therapy designed for women’s unique challenges and strengths.
     items:
-      - title: "\U0001F7EA Confidence & Boundaries"
-        subtitle: "\U0001F4A1 Build self-esteem, set boundaries, and stop people-pleasing."
-        text: >
-          Do you struggle to say ‘no’ or feel guilty when you prioritize
-          yourself? Let’s work together to help you develop self-confidence and
-          create healthy boundaries that honor your needs.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: "\U0001F7EA Work-Life Balance & Burnout"
         subtitle: >-
           ⚖️ Navigate career, relationships, and personal well-being without
