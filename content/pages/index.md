@@ -95,7 +95,7 @@ sections:
       - type: FeaturedItem
         title: "\U0001F9D8\U0001F3FD‍♀️ Building Self-Compassion"
         tagline: Softening the inner critic
-        subtitle: Be in good company
+        subtitle: You don’t have to be so hard on yourself
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
