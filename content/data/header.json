@@ -23,7 +23,7 @@
         {
             "label": "Services",
             "altText": "Careers page",
-            "url": "/Why Work With Me?",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
