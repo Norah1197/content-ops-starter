@@ -94,7 +94,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: "\U0001F9D8\U0001F3FD‍♀️ Building Self-Compassion"
-        tagline: Feature 2
+        tagline: Softening the inner critic
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
