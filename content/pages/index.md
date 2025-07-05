@@ -115,9 +115,9 @@ sections:
         styles:
           self:
             padding:
-              - pt-9
-              - pb-9
-              - pl-9
+              - pt-5
+              - pb-5
+              - pl-5
               - pr-9
             textAlign: left
             borderRadius: large
