@@ -212,7 +212,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 56
+      opacity: 44
       url: /images/BWIN-HP-image3.jpg
   - type: GenericSection
     title:
