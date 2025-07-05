@@ -184,7 +184,7 @@ sections:
               - pr-5
             textAlign: left
             borderRadius: large
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
     actions:
       - label: Get started
