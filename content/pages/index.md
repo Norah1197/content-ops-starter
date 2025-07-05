@@ -14,7 +14,7 @@ sections:
     text: "<div style=\"text-align: left\">## Hi, I’m Norah Mwikali</div>\n\nLife can feel like too much sometimes; the pressure to keep up, hold it together, and care for everyone else can leave you feeling disconnected from yourself.\n\nI support women who are navigating the quiet chaos beneath it all; whether it’s the weight of expectations, burnout from work and motherhood, complicated relationships, or wounds that never had space to heal.\n\n\U0001F338 Feeling anxious, stuck, or emotionally drained?\n\n\U0001F338 Struggling with self-doubt, people-pleasing, or past pain that still lingers?\n\n\U0001F338 Ready to set boundaries, feel more grounded, and reconnect with who you truly are?\n\nYou don’t have to carry it all on your own.\n\nTherapy can be the space where you finally exhale and begin again, with support.\n"
     actions:
       - type: Button
-        label: Get started
+        label: "\U0001F449\U0001F3FD Book Your Consultation"
         altText: ''
         url: >-
           https://book.carepatron.com/THERAPYOUTIK/Norah?p=CAs61hhOSeyV-dCt2yqx8g&s=7j2TGEHI
