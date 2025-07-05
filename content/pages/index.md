@@ -93,7 +93,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: "\U0001F9D8\U0001F3FD‍♀️ Building Self-Compassion"
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
