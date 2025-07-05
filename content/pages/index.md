@@ -210,7 +210,7 @@ sections:
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: cover
-      backgroundPosition: left
+      backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/KJF_Black-Women-Explore_01.webp
