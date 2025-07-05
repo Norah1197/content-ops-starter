@@ -63,7 +63,7 @@ sections:
       - type: FeaturedItem
         title: "\U0001F4BC Balancing Life Without Losing Yourself"
         tagline: 'Making space for your needs, too'
-        subtitle: Be in good company
+        subtitle: You’re allowed to slow down
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
