@@ -60,36 +60,6 @@ sections:
       type: TitleBlock
     subtitle: Therapy designed for women’s unique challenges and strengths.
     items:
-      - type: FeaturedItem
-        title: "\U0001F7EA Healing & Self-Discovery"
-        subtitle: "\U0001F33F Understand yourself, heal from past wounds, and embrace growth."
-        text: >
-          Many women carry unhealed emotional wounds from childhood,
-          relationships, or societal pressures. I provide a safe space to unpack
-          and process these experiences, helping you reconnect with yourself.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-        tagline: ''
       - title: "\U0001F7EA Confidence & Boundaries"
         subtitle: "\U0001F4A1 Build self-esteem, set boundaries, and stop people-pleasing."
         text: >
