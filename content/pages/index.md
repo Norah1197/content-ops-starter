@@ -44,8 +44,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: >-
-        /images/counseling-session-with-black-female-therapist-and-black-female-patient.jpg
+      url: /images/avatar3.svg
   - type: FeaturedItemsSection
     title:
       text: Why Work With Me?
