@@ -211,7 +211,7 @@ sections:
       altText: altText of the image
       backgroundSize: contain
       backgroundPosition: center
-      backgroundRepeat: repeat-y
+      backgroundRepeat: repeat
       opacity: 100
       url: /images/KJF_Black-Women-Explore_01.webp
   - type: GenericSection
