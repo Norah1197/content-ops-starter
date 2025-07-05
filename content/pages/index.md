@@ -117,12 +117,14 @@ sections:
             padding:
               - pt-6
               - pb-5
-              - pl-6
+              - pl-5
               - pr-9
             textAlign: left
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            margin:
+              - mt-1
       - type: FeaturedItem
         title: "\U0001F331 Healing Emotional Wounds"
         tagline: Unpacking what still hurts
