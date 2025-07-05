@@ -222,7 +222,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Finding the Balance
+      text: Finding Your Balance
       color: text-dark
       styles:
         self:
