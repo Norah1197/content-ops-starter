@@ -165,9 +165,6 @@ sections:
           to rest, reset, and start choosing you. It's not selfish to pause.
           It's necessary.</div>
 
-
-          </div>
-
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
