@@ -45,7 +45,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: >-
-        /images/counseling-session-with-black-female-therapist-and-black-female-patient.jpg
+        /images/black-african-american-woman-receives-cognitive-behavioral-therapy-anxiety_858264-407.avif
   - type: FeaturedItemsSection
     title:
       text: Why Work With Me?
