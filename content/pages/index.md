@@ -93,7 +93,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: "\U0001F9D8\U0001F3FD‍♀️ Building Self-Compassion"
+        title: "\U0001F510 Learning to Set Boundaries"
         tagline: Softening the inner critic
         subtitle: You don’t have to be so hard on yourself
         text: >-
