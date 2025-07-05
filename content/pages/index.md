@@ -124,7 +124,7 @@ sections:
             flexDirection: row
             justifyContent: center
             margin:
-              - mt-1
+              - mt-0
       - type: FeaturedItem
         title: "\U0001F331 Healing Emotional Wounds"
         tagline: Unpacking what still hurts
