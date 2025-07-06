@@ -256,7 +256,7 @@ sections:
       url: /images/istockphoto-1497833949-612x612.jpg
 seo:
   metaTitle: Home
-  metaDescription: ''
+  metaDescription: FindingYourBalance
   socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: true
