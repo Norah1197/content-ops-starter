@@ -255,9 +255,10 @@ sections:
       opacity: 39
       url: /images/istockphoto-1497833949-612x612.jpg
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: ''
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+isDraft: true
 ---

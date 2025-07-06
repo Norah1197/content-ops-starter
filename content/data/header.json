@@ -14,16 +14,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "https://findingthebalance.netlify.app/Home",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Services",
-            "altText": "Why Work With Me?",
-            "url": "https://findingthebalance.netlify.app/Why Work With Me?/",
+            "url": "/Your Mental Wellness Matters",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
