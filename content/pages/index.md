@@ -255,10 +255,12 @@ sections:
       opacity: 39
       url: /images/istockphoto-1497833949-612x612.jpg
 seo:
-  metaTitle: ''
-  metaDescription: ''
+  metaTitle: Home
+  metaDescription: Finding Your Balance
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
+  metaTags: []
 type: PageLayout
-isDraft: true
+isDraft: false
 ---
