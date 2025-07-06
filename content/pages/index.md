@@ -256,7 +256,7 @@ sections:
       url: /images/istockphoto-1497833949-612x612.jpg
 seo:
   metaTitle: ''
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
