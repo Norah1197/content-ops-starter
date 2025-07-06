@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: ''
 slug: pricing
 sections: []
 seo:
