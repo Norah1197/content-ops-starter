@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock",
-        "url": "/images/Untitled design (2).jpg"
-    },
     "primaryLinks": [
         {
             "type": "Button",
