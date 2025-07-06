@@ -16,7 +16,7 @@
             "type": "Button",
             "label": "Get started",
             "altText": "",
-            "url": "https://findingyourbalance.netlify.app/Home",
+            "url": "https://findingyourbalance.netlify.app/ Home",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
