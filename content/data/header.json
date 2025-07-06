@@ -13,6 +13,17 @@
     },
     "primaryLinks": [
         {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "https://findingyourbalance.netlify.app/Home",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Home",
             "url": "/Your Mental Wellness Matters",
             "icon": "arrowRight",
