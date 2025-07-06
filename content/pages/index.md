@@ -259,6 +259,7 @@ seo:
   metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 isDraft: false
 ---
